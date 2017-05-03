@@ -1,2 +1,5 @@
 # hello-word
-CUma belajar dari awal Git :)
+Cuma belajar dari awal Git :)
+
+I just need to learn and read more and more...
+^-^/
